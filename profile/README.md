@@ -15,3 +15,4 @@ Chcesz dowiedzieć się więcej? Masz pytania? Skontaktuj się z nami, a chętni
 - **Email**: kn.solvro@pwr.edu.pl
 - **Strona internetowa**: [solvro.pwr.edu.pl](https://solvro.pwr.edu.pl)
 - **Facebook**: [facebook.com/knsolvro](https://www.facebook.com/knsolvro)
+- **LinkedIn**: [linkedin.com/company/knsolvro](https://www.linkedin.com/company/knsolvro/)
