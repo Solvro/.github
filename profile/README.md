@@ -1,5 +1,6 @@
 # Witaj w Solvro!
-![KN Solvro logo banner](https://github.com/Solvro/.github/assets/28555148/1da32ff9-341c-4e9b-b446-e875601cb7e9)
+![KN Solvro logo banner](./../assets/solvro_dark.png#gh-dark-mode-only)
+![KN Solvro logo banner](./../assets/solvro_light.png#gh-light-mode-only)
 
 Solvro to dynamiczna społeczność entuzjastów programowania z Politechniki Wrocławskiej. Od 2018 roku otwieramy drzwi do świata IT.
 
