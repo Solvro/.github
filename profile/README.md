@@ -18,3 +18,7 @@ Chcesz dowiedzieć się więcej? Masz pytania? Skontaktuj się z nami, a chętni
 - **Strona internetowa**: [solvro.pwr.edu.pl](https://solvro.pwr.edu.pl)
 - **Facebook**: [facebook.com/knsolvro](https://www.facebook.com/knsolvro)
 - **LinkedIn**: [linkedin.com/company/knsolvro](https://www.linkedin.com/company/knsolvro/)
+
+<hr/>
+
+[![docs.solvro.pl](https://i.imgur.com/fuV0gra.png)](https://docs.solvro.pl)
