@@ -15,65 +15,111 @@ Poruszamy się swobodnie w takich obszarach jak:
 
 - 📱 **Mobile App Development**
 - 🤖 **Machine Learning**
-- 🌐 **Web Development**
+- 🖼️ **Frontend**
+- 🖥️ **Backend**
+- ⚙️ **Hardware**
 - 🎨 **UI/UX Design**
 - 📋 **Project Management**
 - 📣 **Social Media Marketing**
 
-### Nasza Misja
 
-Naszym celem jest nie tylko nauka, ale także budowanie **społeczności**, która wspiera rozwój zawodowy i akademicki.
 
 ---
 
 ## Nasze Projekty
-<table style="font-size: inherit;">
-  <tr>
-    <th>Projekt</th>
-    <th>Kategoria</th>
-    <th>Opis</th>
-  </tr>
-  <tr>
-    <td><b>ToPwr</b></td>
-    <td>Mobile App Development</td>
-    <td>Aplikacja mobilna stworzona przez studentów dla studentów Politechniki Wrocławskiej. Licznik dni do sesji, mapka kampusu, info o dziekanatach i kółkach naukowych – wszystko, co trzeba w jednym miejscu. <i>Life made easy.</i></td>
-  </tr>
-  <tr>
-    <td><b>Planner</b></td>
-    <td>Web</td>
-    <td>Studia to nie tylko nauka, ale także szukanie balansu między obowiązkami akademickimi a życiem towarzyskim. Dzięki <b>Planerowi Solvro</b>, układanie planu zajęć staje się prostsze niż kiedykolwiek!</td>
-  </tr>
-  <tr>
-    <td><b>Ewentownik</b></td>
-    <td>Web</td>
-    <td>Narzędzie dla organizacji studenckich, które usprawnia organizację wydarzeń i pozwala skupić się na kreatywnej części eventów, a nie na logistyce.</td>
-  </tr>
-  <tr>
-    <td><b>PromoCHATor</b></td>
-    <td>Machine Learning + Web</td>
-    <td>Twoja praca dyplomowa zasługuje na idealnego promotora! <b>PromoCHATor</b> analizuje promotorów na PWr i dopasowuje najlepszego dla Ciebie. 🚀</td>
-  </tr>
-  <tr>
-    <td><b>Led Cube</b></td>
-    <td>Web</td>
-    <td>Aplikacja do tworzenia dynamicznych animacji w wirtualnej kostce LED. Programuj animacje, dostosowuj rozmiar (5x5x5 do 10x10x10) i rozwijaj swoją kreatywność bez kosztownego sprzętu.</td>
-  </tr>
-  <tr>
-    <td><b>Lokalniej</b></td>
-    <td>Web + Mobile App Development</td>
-    <td>Aplikacja webowa dla rzemieślników z Dolnego Śląska oraz aplikacja mobilna dla miłośników lokalnych produktów. Wszystko w jednym miejscu: mapka z lokalizacją producentów, liczne kategorie wyrobów, opis, cena, dane kontaktowe i wiele więcej!</td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+<a href="https://github.com/Solvro/web-led-cube">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=web-led-cube&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=web-led-cube&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=web-led-cube&theme=radical" alt="web-led-cube">
+  </picture>
+</a>
+
+<a href="https://github.com/Solvro/web-planer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=web-planer&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=web-planer&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=web-planer&theme=radical" alt="web-planer">
+  </picture>
+</a>
+
+<a href="https://github.com/Solvro/web-juwenalia">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=web-juwenalia&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=web-juwenalia&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=web-juwenalia&theme=radical" alt="web-juwenalia">
+  </picture>
+</a>
+
+<a href="https://github.com/Solvro/mobile-topwr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=mobile-topwr&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=mobile-topwr&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=mobile-topwr&theme=radical" alt="mobile-topwr">
+  </picture>
+</a>
+
+<a href="https://github.com/Solvro/backend-topwr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=backend-topwr&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=backend-topwr&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=backend-topwr&theme=radical" alt="backend-topwr">
+  </picture>
+</a>
+
+<a href="https://github.com/Solvro/rekrutacja">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=rekrutacja&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=rekrutacja&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=rekrutacja&theme=radical" alt="rekrutacja">
+  </picture>
+</a>
+
+<a href="https://github.com/Solvro/ml-promochator">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=ml-promochator&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=ml-promochator&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=ml-promochator&theme=radical" alt="ml-promochator">
+  </picture>
+</a>
+
+<a href="https://github.com/Solvro/mobile-catchqr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=mobile-catchqr&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=mobile-catchqr&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=mobile-catchqr&theme=radical" alt="mobile-catchqr">
+  </picture>
+</a>
+
+<a href="https://github.com/Solvro/backend-topwr-sks">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=backend-topwr-sks&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=backend-topwr-sks&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=backend-topwr-sks&theme=radical" alt="backend-topwr-sks">
+  </picture>
+</a>
+
+<a href="https://github.com/Solvro/backend-parking-api-wrapper">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=backend-parking-api-wrapper&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=backend-parking-api-wrapper&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solvro&repo=backend-parking-api-wrapper&theme=radical" alt="backend-parking-api-wrapper">
+  </picture>
+</a>
+
+
+
+
+</div>
+
+
+
 
 ---
 
-## Zarząd
-
-Poznaj nasz zespół liderów!
-
-- [**Dawid Linek**](https://www.facebook.com/profile.php?id=100008471674304) – Prezes 2024/2025, Przewodniczący sekcji Backend
-- [**Szymon Kowaliński**](https://github.com/simon-the-shark) – Wiceprezes 2024/2025, Head of Mobile
-- [**Wiktoria Mróz**](https://www.facebook.com/profile.php?id=100013880256620) – Wiceprezeska 2024/2025
+## Nasz Zespół
+[View All Members](https://github.com/orgs/solvro/people)
 
 ---
 
@@ -82,6 +128,10 @@ Poznaj nasz zespół liderów!
 **To proste!**
 
 Rekrutacja do koła naukowego **Solvro** odbywa się na początku każdego semestru. Możesz nas zaobserwować na naszym [Facebooku](https://www.facebook.com/knsolvro), żeby nic nie przegapić!
+
+**Ale to nie wszystko!**
+
+Jeśli naprawdę ogarniasz, to nie musisz czekać na oficjalną rekrutację. Prowadzimy całoroczny headhunting – możesz zgłosić się do nas w dowolnym momencie, a my z chęcią sprawdzimy Twój skill!
 
 **Masz pytania?**
 
