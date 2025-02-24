@@ -81,7 +81,7 @@ Poznaj nasz zespół liderów!
 
 **To proste!**
 
-Rekrutacja do koła naukowego **Solvro** odbywa się na początku każdego semestru.
+Rekrutacja do koła naukowego **Solvro** odbywa się na początku każdego semestru. Możesz nas zaobserwować na naszym [Facebooku](https://www.facebook.com/knsolvro), żeby nic nie przegapić!
 
 **Masz pytania?**
 
