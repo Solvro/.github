@@ -192,6 +192,10 @@ Poruszamy się swobodnie w takich obszarach jak:
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/72696247?v=4" width="50" height="50" alt="@DimaGolt" />
   </a>
 
+  <a href="https://github.com/DominikaStefaniak">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/161628339?v=4" width="50" height="50" alt="@DominikaStefaniak" />
+  </a>
+
   <a href="https://github.com/farqlia">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/68340482?v=4" width="50" height="50" alt="@farqlia" />
   </a>
@@ -218,10 +222,6 @@ Poruszamy się swobodnie w takich obszarach jak:
 
   <a href="https://github.com/jakubkobus">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/60443955?v=4" width="50" height="50" alt="@jakubkobus" />
-  </a>
-
-  <a href="https://github.com/Jan-Krupa">
-    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/169122711?v=4" width="50" height="50" alt="@Jan-Krupa" />
   </a>
 
   <a href="https://github.com/jedryczkatymon">
