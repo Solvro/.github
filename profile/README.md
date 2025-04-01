@@ -140,8 +140,8 @@ Poruszamy się swobodnie w takich obszarach jak:
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/169503654?v=4" width="50" height="50" alt="@AmeliaSroczynska1" />
   </a>
 
-  <a href="https://github.com/Aniakii">
-    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/95714597?v=4" width="50" height="50" alt="@Aniakii" />
+  <a href="https://github.com/Antoni-Czaplicki">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/56671347?v=4" width="50" height="50" alt="@Antoni-Czaplicki" />
   </a>
 
   <a href="https://github.com/avtorgenii">
@@ -248,6 +248,10 @@ Poruszamy się swobodnie w takich obszarach jak:
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/143968486?v=4" width="50" height="50" alt="@Kawaban" />
   </a>
 
+  <a href="https://github.com/kaykoe">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/151203622?v=4" width="50" height="50" alt="@kaykoe" />
+  </a>
+
   <a href="https://github.com/kguzek">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/52281528?v=4" width="50" height="50" alt="@kguzek" />
   </a>
@@ -280,8 +284,8 @@ Poruszamy się swobodnie w takich obszarach jak:
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/167023800?v=4" width="50" height="50" alt="@Magnificenton1" />
   </a>
 
-  <a href="https://github.com/MateuszKwiat">
-    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/101188345?v=4" width="50" height="50" alt="@MateuszKwiat" />
+  <a href="https://github.com/mateusz-plaska">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/147147104?v=4" width="50" height="50" alt="@mateusz-plaska" />
   </a>
 
   <a href="https://github.com/MATIK0582">
@@ -298,10 +302,6 @@ Poruszamy się swobodnie w takich obszarach jak:
 
   <a href="https://github.com/mejsiejdev">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/105872023?v=4" width="50" height="50" alt="@mejsiejdev" />
-  </a>
-
-  <a href="https://github.com/MichalBialek01">
-    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/74964302?v=4" width="50" height="50" alt="@MichalBialek01" />
   </a>
 
   <a href="https://github.com/Micz26">
@@ -328,16 +328,28 @@ Poruszamy się swobodnie w takich obszarach jak:
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/152724796?v=4" width="50" height="50" alt="@mmzek" />
   </a>
 
+  <a href="https://github.com/Mychal003">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/166646383?v=4" width="50" height="50" alt="@Mychal003" />
+  </a>
+
   <a href="https://github.com/nuklearbanana">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/164865793?v=4" width="50" height="50" alt="@nuklearbanana" />
+  </a>
+
+  <a href="https://github.com/Octopus4344">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/156484850?v=4" width="50" height="50" alt="@Octopus4344" />
+  </a>
+
+  <a href="https://github.com/odominiak">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/132699843?v=4" width="50" height="50" alt="@odominiak" />
   </a>
 
   <a href="https://github.com/olekszczepanowski">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/120830093?v=4" width="50" height="50" alt="@olekszczepanowski" />
   </a>
 
-  <a href="https://github.com/playfulCloud">
-    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/55619673?v=4" width="50" height="50" alt="@playfulCloud" />
+  <a href="https://github.com/pb3dpb3d">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/41083170?v=4" width="50" height="50" alt="@pb3dpb3d" />
   </a>
 
   <a href="https://github.com/qamarq">
@@ -368,16 +380,16 @@ Poruszamy się swobodnie w takich obszarach jak:
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/52202262?v=4" width="50" height="50" alt="@stepkos" />
   </a>
 
-  <a href="https://github.com/sxlecquer">
-    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/115950735?v=4" width="50" height="50" alt="@sxlecquer" />
-  </a>
-
   <a href="https://github.com/Szymczek">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/54118955?v=4" width="50" height="50" alt="@Szymczek" />
   </a>
 
   <a href="https://github.com/tomasz-trela">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/153635094?v=4" width="50" height="50" alt="@tomasz-trela" />
+  </a>
+
+  <a href="https://github.com/W1ndrunn3rr">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/123320214?v=4" width="50" height="50" alt="@W1ndrunn3rr" />
   </a>
 
   <a href="https://github.com/wkrzos">
