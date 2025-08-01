@@ -136,8 +136,8 @@ Poruszamy się swobodnie w takich obszarach jak:
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/101900992?v=4" width="50" height="50" alt="@24bartixx" />
   </a>
 
-  <a href="https://github.com/AmeliaSroczynska1">
-    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/169503654?v=4" width="50" height="50" alt="@AmeliaSroczynska1" />
+  <a href="https://github.com/AmeliaSroczynska">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/169503654?v=4" width="50" height="50" alt="@AmeliaSroczynska" />
   </a>
 
   <a href="https://github.com/Antoni-Czaplicki">
