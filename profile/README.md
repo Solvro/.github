@@ -252,6 +252,10 @@ Poruszamy się swobodnie w takich obszarach jak:
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/157594834?v=4" width="50" height="50" alt="@igawolanin" />
   </a>
 
+  <a href="https://github.com/ILeeto">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/182378155?v=4" width="50" height="50" alt="@ILeeto" />
+  </a>
+
   <a href="https://github.com/inamari-sus">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/203337440?v=4" width="50" height="50" alt="@inamari-sus" />
   </a>
