@@ -208,10 +208,6 @@ Poruszamy się swobodnie w takich obszarach jak:
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/73660258?v=4" width="50" height="50" alt="@diffiii" />
   </a>
 
-  <a href="https://github.com/DimaGolt">
-    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/72696247?v=4" width="50" height="50" alt="@DimaGolt" />
-  </a>
-
   <a href="https://github.com/Dominik-Galus">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/161326772?v=4" width="50" height="50" alt="@Dominik-Galus" />
   </a>
@@ -290,6 +286,10 @@ Poruszamy się swobodnie w takich obszarach jak:
 
   <a href="https://github.com/K0smalka">
     <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/184450490?v=4" width="50" height="50" alt="@K0smalka" />
+  </a>
+
+  <a href="https://github.com/kameqdev">
+    <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/90651206?v=4" width="50" height="50" alt="@kameqdev" />
   </a>
 
   <a href="https://github.com/kamilramocki">
